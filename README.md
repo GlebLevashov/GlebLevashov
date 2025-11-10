@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Gleb 👋
+
+## 🔭 About Me
+* 🎓 Final year Biomedical Engineering student at Toronto Metropolitan University 
+* 🤖 Passionate about Medtech, BCIs (Brain Computer Interfaces), AI, Computer Vision, and Robotics
+
+## 💻 Tech Stack
+* **Languages:** Python, C++, C, MATLAB, Haskell
+* **AI/ML/Computer Vision:** PyTorch, OpenCV
+* **Developer Tools:** Linux, Git, Jupyter Lab
+* **Embedded/Firmware:** VHDL, SPI, I2C, UART
 
 <!--
 **GlebLevashov/GlebLevashov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
