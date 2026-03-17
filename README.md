@@ -10,6 +10,9 @@
 * **Developer Tools:** Linux, Git, Jupyter Lab
 * **Embedded/Firmware:** SPI, I2C, UART
 
+## 🛠️ Portfolio
+* [Link](https://www.canva.com/design/DAGT-5Dp32I/RPHHtCWmVZCQilg4e3ujBg/view?utm_content=DAGT-5Dp32I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c1114ce4b)
+
 <!--
 **GlebLevashov/GlebLevashov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
